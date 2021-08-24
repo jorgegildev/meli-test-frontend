@@ -51,7 +51,7 @@ Meli Test Frontend is an GNU-licensed open source project.
 
 ## Stay in touch
 
-- Author - [Jorge Eduardo Gil](https://kamilmysliwiec.com)
+- Author - [Jorge Eduardo Gil](https://github.com/jorgegildev)
 - GitHub - [github.com/jorgegildev](https://github.com/jorgegildev)
 - LinkedIn - [jorgegildev](https://www.linkedin.com/in/jorgegildev/)
 
