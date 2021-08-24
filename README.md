@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://lh3.googleusercontent.com/fxBEPzc-TSycO2wbfC0OCZlhCdalG4raWv3KBx1QJ3x25ftZARu2rkZubT0XiwRZoa15Z4s8rSant631c0JJEmxR59b3y-CQxIGnn7Y" width="320" alt="Nest Logo" /></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+
+[Meli Frontend](https://github.com/jorgegildev/meli-test-frontend) test app with repository.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+ReactJs Application.
 
 ## Available Scripts
 
@@ -9,7 +15,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3004](http://localhost:3004) to view it in the browser. You can change the app port in .env file.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
@@ -39,32 +45,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Meli Test Frontend is an GNU-licensed open source project.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Stay in touch
 
-### Code Splitting
+- Author - [Jorge Eduardo Gil](https://kamilmysliwiec.com)
+- GitHub - [github.com/jorgegildev](https://github.com/jorgegildev)
+- LinkedIn - [jorgegildev](https://www.linkedin.com/in/jorgegildev/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Meli Test Frontend [GNU licensed](LICENSE).
