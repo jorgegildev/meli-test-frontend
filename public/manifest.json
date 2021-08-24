@@ -1,0 +1,25 @@
+{
+  "short_name": "Meli Test",
+  "name": "Meli tecnical test",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "../src/assets/img/Logo_ML.png",
+      "type": "image/png",
+      "sizes": "56x36"
+    },
+    {
+      "src": "../src/assets/img/Logo_ML@2x.png.png.png",
+      "type": "image/png",
+      "sizes": "106x72"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
